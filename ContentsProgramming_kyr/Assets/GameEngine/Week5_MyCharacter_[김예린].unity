@@ -131,7 +131,7 @@ GameObject:
   - component: {fileID: 38503483}
   m_Layer: 0
   m_Name: tileset-sliced_24 (27)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -218,7 +218,7 @@ GameObject:
   - component: {fileID: 63494976}
   m_Layer: 0
   m_Name: tileset-sliced_24 (6)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -305,7 +305,7 @@ GameObject:
   - component: {fileID: 122049880}
   m_Layer: 0
   m_Name: tileset-sliced_24 (16)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -392,7 +392,7 @@ GameObject:
   - component: {fileID: 135868613}
   m_Layer: 0
   m_Name: tileset-sliced_24 (4)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -479,7 +479,7 @@ GameObject:
   - component: {fileID: 156406865}
   m_Layer: 0
   m_Name: tileset-sliced_1 (9)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -492,12 +492,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 156406863}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: -1, y: 0, z: 2}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 1930344637}
+  m_Father: {fileID: 1562504884}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &156406865
 SpriteRenderer:
@@ -566,7 +566,7 @@ GameObject:
   - component: {fileID: 173254452}
   m_Layer: 0
   m_Name: tileset-sliced_24 (1)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -653,7 +653,7 @@ GameObject:
   - component: {fileID: 178918029}
   m_Layer: 0
   m_Name: tileset-sliced_24 (35)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -740,7 +740,7 @@ GameObject:
   - component: {fileID: 185768737}
   m_Layer: 0
   m_Name: tileset-sliced_47 (5)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -948,7 +948,7 @@ GameObject:
   - component: {fileID: 223022420}
   m_Layer: 0
   m_Name: tileset-sliced_47 (4)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1035,7 +1035,7 @@ GameObject:
   - component: {fileID: 258823864}
   m_Layer: 0
   m_Name: tileset-sliced_19
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1122,7 +1122,7 @@ GameObject:
   - component: {fileID: 260073650}
   m_Layer: 0
   m_Name: tileset-sliced_1 (9)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1191,11 +1191,11 @@ Transform:
   m_GameObject: {fileID: 260073649}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -13.948319, y: -1.0538601, z: 2}
+  m_LocalPosition: {x: -13.948319, y: -1.0538602, z: 2}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 1930344637}
+  m_Father: {fileID: 1113466350}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &277002290
 GameObject:
@@ -1209,7 +1209,7 @@ GameObject:
   - component: {fileID: 277002292}
   m_Layer: 0
   m_Name: tileset-sliced_24 (5)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1296,7 +1296,7 @@ GameObject:
   - component: {fileID: 398398348}
   m_Layer: 0
   m_Name: tileset-sliced_1 (4)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1369,7 +1369,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 1930344637}
+  m_Father: {fileID: 1100757529}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &415353488
 GameObject:
@@ -1383,7 +1383,7 @@ GameObject:
   - component: {fileID: 415353490}
   m_Layer: 0
   m_Name: tileset-sliced_47 (6)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1677,7 +1677,7 @@ GameObject:
   - component: {fileID: 480598140}
   m_Layer: 0
   m_Name: tileset-sliced_1 (6)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1750,7 +1750,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 1930344637}
+  m_Father: {fileID: 1100757529}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &523389071
 GameObject:
@@ -1764,7 +1764,7 @@ GameObject:
   - component: {fileID: 523389073}
   m_Layer: 0
   m_Name: tileset-sliced_24 (27)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1961,7 +1961,7 @@ GameObject:
   - component: {fileID: 539706708}
   m_Layer: 0
   m_Name: tileset-sliced_24 (25)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2048,7 +2048,7 @@ GameObject:
   - component: {fileID: 542845842}
   m_Layer: 0
   m_Name: tileset-sliced_24 (21)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2135,7 +2135,7 @@ GameObject:
   - component: {fileID: 546022012}
   m_Layer: 0
   m_Name: tileset-sliced_11
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2309,7 +2309,7 @@ GameObject:
   - component: {fileID: 569374600}
   m_Layer: 0
   m_Name: tileset-sliced_1 (2)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2382,7 +2382,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 1930344637}
+  m_Father: {fileID: 1100757529}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &617153241
 GameObject:
@@ -2396,7 +2396,7 @@ GameObject:
   - component: {fileID: 617153243}
   m_Layer: 0
   m_Name: tileset-sliced_24 (13)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2483,7 +2483,7 @@ GameObject:
   - component: {fileID: 629187645}
   m_Layer: 0
   m_Name: tileset-sliced_1 (11)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2552,11 +2552,11 @@ Transform:
   m_GameObject: {fileID: 629187644}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -11.948319, y: -1.0538601, z: 2}
+  m_LocalPosition: {x: -11.948319, y: -1.0538602, z: 2}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 1930344637}
+  m_Father: {fileID: 1113466350}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &629239871
 GameObject:
@@ -2570,7 +2570,7 @@ GameObject:
   - component: {fileID: 629239873}
   m_Layer: 0
   m_Name: tileset-sliced_47
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2657,7 +2657,7 @@ GameObject:
   - component: {fileID: 662355313}
   m_Layer: 0
   m_Name: tileset-sliced_24
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2744,7 +2744,7 @@ GameObject:
   - component: {fileID: 697516343}
   m_Layer: 0
   m_Name: tileset-sliced_24 (33)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2831,7 +2831,7 @@ GameObject:
   - component: {fileID: 712828701}
   m_Layer: 0
   m_Name: tileset-sliced_24 (15)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2935,10 +2935,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c726b2391d5c8fd49a85aaed6ebaca2d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  playerName: "\uAE40\uC608\uB9B0"
-  playerLevel: 1
-  walkSpeed: 5
-  canFly: 0
 --- !u!4 &723714425
 Transform:
   m_ObjectHideFlags: 0
@@ -2966,7 +2962,7 @@ GameObject:
   - component: {fileID: 726243736}
   m_Layer: 0
   m_Name: tileset-sliced_1 (12)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3035,11 +3031,11 @@ Transform:
   m_GameObject: {fileID: 726243735}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -10.948319, y: -1.0538601, z: 2}
+  m_LocalPosition: {x: -10.948319, y: -1.0538602, z: 2}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 1930344637}
+  m_Father: {fileID: 1113466350}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &744634922
 GameObject:
@@ -3053,7 +3049,7 @@ GameObject:
   - component: {fileID: 744634924}
   m_Layer: 0
   m_Name: tileset-sliced_24 (11)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3140,7 +3136,7 @@ GameObject:
   - component: {fileID: 749118144}
   m_Layer: 0
   m_Name: tileset-sliced_24 (10)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3261,7 +3257,7 @@ GameObject:
   - component: {fileID: 767001221}
   m_Layer: 0
   m_Name: tileset-sliced_1 (5)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3334,7 +3330,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 1930344637}
+  m_Father: {fileID: 1100757529}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &775156241
 GameObject:
@@ -3348,7 +3344,7 @@ GameObject:
   - component: {fileID: 775156242}
   m_Layer: 0
   m_Name: tileset-sliced_1 (09)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3421,7 +3417,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 1930344637}
+  m_Father: {fileID: 1100757529}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &784328422
 GameObject:
@@ -3435,7 +3431,7 @@ GameObject:
   - component: {fileID: 784328424}
   m_Layer: 0
   m_Name: tileset-sliced_24 (22)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3522,7 +3518,7 @@ GameObject:
   - component: {fileID: 797019194}
   m_Layer: 0
   m_Name: tileset-sliced_1 (7)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3591,11 +3587,11 @@ Transform:
   m_GameObject: {fileID: 797019193}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -14.948319, y: -1.0538601, z: 2}
+  m_LocalPosition: {x: -14.948319, y: -1.0538602, z: 2}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 1930344637}
+  m_Father: {fileID: 1113466350}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &808978590
 GameObject:
@@ -3762,7 +3758,7 @@ GameObject:
   - component: {fileID: 811463326}
   m_Layer: 0
   m_Name: tileset-sliced_1 (12)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3775,12 +3771,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 811463324}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 2, y: 0, z: 2}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 1930344637}
+  m_Father: {fileID: 1562504884}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &811463326
 SpriteRenderer:
@@ -3849,7 +3845,7 @@ GameObject:
   - component: {fileID: 824757017}
   m_Layer: 0
   m_Name: tileset-sliced_47 (1)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3936,7 +3932,7 @@ GameObject:
   - component: {fileID: 829115075}
   m_Layer: 0
   m_Name: tileset-sliced_13 (2)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4023,7 +4019,7 @@ GameObject:
   - component: {fileID: 845227892}
   m_Layer: 0
   m_Name: tileset-sliced_24 (23)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4110,7 +4106,7 @@ GameObject:
   - component: {fileID: 846958465}
   m_Layer: 0
   m_Name: tileset-sliced_24 (31)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4197,7 +4193,7 @@ GameObject:
   - component: {fileID: 856238762}
   m_Layer: 0
   m_Name: tileset-sliced_24 (26)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4284,7 +4280,7 @@ GameObject:
   - component: {fileID: 860929359}
   m_Layer: 0
   m_Name: tileset-sliced_1 (13)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4353,11 +4349,11 @@ Transform:
   m_GameObject: {fileID: 860929358}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -9.948319, y: -1.0538601, z: 2}
+  m_LocalPosition: {x: -9.948319, y: -1.0538602, z: 2}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 1930344637}
+  m_Father: {fileID: 1113466350}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &868227942
 GameObject:
@@ -4371,7 +4367,7 @@ GameObject:
   - component: {fileID: 868227944}
   m_Layer: 0
   m_Name: tileset-sliced_24
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4458,7 +4454,7 @@ GameObject:
   - component: {fileID: 893592376}
   m_Layer: 0
   m_Name: tileset-sliced_24 (15)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4545,7 +4541,7 @@ GameObject:
   - component: {fileID: 930861580}
   m_Layer: 0
   m_Name: tileset-sliced_13 (1)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4632,7 +4628,7 @@ GameObject:
   - component: {fileID: 933250854}
   m_Layer: 0
   m_Name: tileset-sliced_1 (5)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4645,12 +4641,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 933250852}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: -6, y: 0, z: 2}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 1930344637}
+  m_Father: {fileID: 1562504884}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &933250854
 SpriteRenderer:
@@ -4719,7 +4715,7 @@ GameObject:
   - component: {fileID: 936719924}
   m_Layer: 0
   m_Name: tileset-sliced_14
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4806,7 +4802,7 @@ GameObject:
   - component: {fileID: 949189952}
   m_Layer: 0
   m_Name: tileset-sliced_1 (11)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4819,12 +4815,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 949189950}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 1, y: 0, z: 2}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 1930344637}
+  m_Father: {fileID: 1562504884}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &949189952
 SpriteRenderer:
@@ -4980,7 +4976,7 @@ GameObject:
   - component: {fileID: 961484540}
   m_Layer: 0
   m_Name: tileset-sliced_24 (11)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5067,7 +5063,7 @@ GameObject:
   - component: {fileID: 970491857}
   m_Layer: 0
   m_Name: tileset-sliced_24 (4)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5154,7 +5150,7 @@ GameObject:
   - component: {fileID: 970965188}
   m_Layer: 0
   m_Name: tileset-sliced_24 (7)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5274,7 +5270,7 @@ GameObject:
   - component: {fileID: 1056074360}
   m_Layer: 0
   m_Name: tileset-sliced_24 (23)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5361,7 +5357,7 @@ GameObject:
   - component: {fileID: 1075163707}
   m_Layer: 0
   m_Name: tileset-sliced_24 (9)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5436,6 +5432,178 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &1100757528
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1100757529}
+  - component: {fileID: 1100757530}
+  m_Layer: 0
+  m_Name: ground_3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1100757529
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1100757528}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 569374601}
+  - {fileID: 398398349}
+  - {fileID: 1740504936}
+  - {fileID: 767001222}
+  - {fileID: 480598141}
+  - {fileID: 1189532298}
+  - {fileID: 1887914238}
+  - {fileID: 775156243}
+  m_Father: {fileID: 1930344637}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!61 &1100757530
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1100757528}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0, y: 0}
+    oldSize: {x: 0, y: 0}
+    newSize: {x: 0, y: 0}
+    adaptiveTilingThreshold: 0
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Size: {x: 1, y: 1}
+  m_EdgeRadius: 0
+--- !u!1 &1113466349
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1113466350}
+  - component: {fileID: 1113466351}
+  m_Layer: 0
+  m_Name: ground_1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1113466350
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1113466349}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 797019195}
+  - {fileID: 260073651}
+  - {fileID: 1751302413}
+  - {fileID: 1584311623}
+  - {fileID: 629187646}
+  - {fileID: 726243737}
+  - {fileID: 860929360}
+  - {fileID: 1201111107}
+  m_Father: {fileID: 1930344637}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!61 &1113466351
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1113466349}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: -12.477384, y: -1.0596509}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0, y: 0}
+    oldSize: {x: 0, y: 0}
+    newSize: {x: 0, y: 0}
+    adaptiveTilingThreshold: 0
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Size: {x: 8.099657, y: 1.1059637}
+  m_EdgeRadius: 0
 --- !u!1 &1141483823
 GameObject:
   m_ObjectHideFlags: 0
@@ -5448,7 +5616,7 @@ GameObject:
   - component: {fileID: 1141483825}
   m_Layer: 0
   m_Name: tileset-sliced_24 (22)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5535,7 +5703,7 @@ GameObject:
   - component: {fileID: 1146504303}
   m_Layer: 0
   m_Name: tileset-sliced_24 (17)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5622,7 +5790,7 @@ GameObject:
   - component: {fileID: 1173230982}
   m_Layer: 0
   m_Name: tileset-sliced_24 (13)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5709,7 +5877,7 @@ GameObject:
   - component: {fileID: 1184942686}
   m_Layer: 0
   m_Name: tileset-sliced_1 (2)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5722,12 +5890,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1184942684}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: -4, y: 0, z: 2}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 1930344637}
+  m_Father: {fileID: 1562504884}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &1184942686
 SpriteRenderer:
@@ -5796,7 +5964,7 @@ GameObject:
   - component: {fileID: 1185037290}
   m_Layer: 0
   m_Name: tileset-sliced_24 (25)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5883,7 +6051,7 @@ GameObject:
   - component: {fileID: 1189532297}
   m_Layer: 0
   m_Name: tileset-sliced_1 (07)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5956,7 +6124,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 1930344637}
+  m_Father: {fileID: 1100757529}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1196409131
 GameObject:
@@ -6080,7 +6248,7 @@ GameObject:
   - component: {fileID: 1201111106}
   m_Layer: 0
   m_Name: tileset-sliced_1 (14)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6149,11 +6317,11 @@ Transform:
   m_GameObject: {fileID: 1201111105}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -8.948319, y: -1.0538601, z: 2}
+  m_LocalPosition: {x: -8.948319, y: -1.0538602, z: 2}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 1930344637}
+  m_Father: {fileID: 1113466350}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1204165384
 GameObject:
@@ -6167,7 +6335,7 @@ GameObject:
   - component: {fileID: 1204165386}
   m_Layer: 0
   m_Name: tileset-sliced_24 (18)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6254,7 +6422,7 @@ GameObject:
   - component: {fileID: 1211219777}
   m_Layer: 0
   m_Name: tileset-sliced_24 (30)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6341,7 +6509,7 @@ GameObject:
   - component: {fileID: 1224941727}
   m_Layer: 0
   m_Name: tileset-sliced_24 (17)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6428,7 +6596,7 @@ GameObject:
   - component: {fileID: 1229159164}
   m_Layer: 0
   m_Name: tileset-sliced_24 (9)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6515,7 +6683,7 @@ GameObject:
   - component: {fileID: 1275796487}
   m_Layer: 0
   m_Name: tileset-sliced_21 (1)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6601,9 +6769,10 @@ GameObject:
   - component: {fileID: 1300841324}
   - component: {fileID: 1300841325}
   - component: {fileID: 1300841326}
+  - component: {fileID: 1300841327}
   m_Layer: 0
   m_Name: cherry_01
-  m_TagString: Untagged
+  m_TagString: Coin
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6700,6 +6869,42 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!58 &1300841327
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1300841323}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: -0.16008925, y: 0}
+  m_Radius: 0.49616075
 --- !u!1 &1325873362
 GameObject:
   m_ObjectHideFlags: 0
@@ -6712,7 +6917,7 @@ GameObject:
   - component: {fileID: 1325873364}
   m_Layer: 0
   m_Name: tileset-sliced_24 (3)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6799,7 +7004,7 @@ GameObject:
   - component: {fileID: 1334287584}
   m_Layer: 0
   m_Name: tileset-sliced_24 (2)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6886,7 +7091,7 @@ GameObject:
   - component: {fileID: 1359935304}
   m_Layer: 0
   m_Name: tileset-sliced_24 (7)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6973,7 +7178,7 @@ GameObject:
   - component: {fileID: 1380598227}
   m_Layer: 0
   m_Name: tileset-sliced_24 (14)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7060,7 +7265,7 @@ GameObject:
   - component: {fileID: 1382554152}
   m_Layer: 0
   m_Name: tileset-sliced_12
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7147,7 +7352,7 @@ GameObject:
   - component: {fileID: 1386006539}
   m_Layer: 0
   m_Name: tileset-sliced_21
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7321,7 +7526,7 @@ GameObject:
   - component: {fileID: 1447317229}
   m_Layer: 0
   m_Name: tileset-sliced_1 (8)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7334,12 +7539,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1447317227}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: -2, y: 0, z: 2}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 1930344637}
+  m_Father: {fileID: 1562504884}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &1447317229
 SpriteRenderer:
@@ -7408,6 +7613,8 @@ GameObject:
   - component: {fileID: 1451949918}
   - component: {fileID: 1451949917}
   - component: {fileID: 1451949919}
+  - component: {fileID: 1451949921}
+  - component: {fileID: 1451949920}
   m_Layer: 0
   m_Name: player
   m_TagString: Untagged
@@ -7520,8 +7727,71 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   moveSpeed: 8
-  playerName: "\uAE40\uC608\uB9B0"
-  playerLevel: 1
+  jumpForce: 10
+--- !u!70 &1451949920
+CapsuleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1451949915}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: -0.03961456, y: 0.78211784}
+  m_Size: {x: 1.270201, y: 1.6267357}
+  m_Direction: 0
+--- !u!50 &1451949921
+Rigidbody2D:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1451949915}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDamping: 0
+  m_AngularDamping: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 4
 --- !u!1 &1465844460
 GameObject:
   m_ObjectHideFlags: 0
@@ -7534,7 +7804,7 @@ GameObject:
   - component: {fileID: 1465844462}
   m_Layer: 0
   m_Name: tileset-sliced_1 (10)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7547,12 +7817,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1465844460}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 2}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 1930344637}
+  m_Father: {fileID: 1562504884}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &1465844462
 SpriteRenderer:
@@ -7621,7 +7891,7 @@ GameObject:
   - component: {fileID: 1518147931}
   m_Layer: 0
   m_Name: tileset-sliced_24 (20)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7708,7 +7978,7 @@ GameObject:
   - component: {fileID: 1526372287}
   m_Layer: 0
   m_Name: tileset-sliced_1 (7)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7721,12 +7991,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1526372285}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: -5, y: 0, z: 2}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 1930344637}
+  m_Father: {fileID: 1562504884}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &1526372287
 SpriteRenderer:
@@ -7795,7 +8065,7 @@ GameObject:
   - component: {fileID: 1534716047}
   m_Layer: 0
   m_Name: tileset-sliced_47 (3)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7882,7 +8152,7 @@ GameObject:
   - component: {fileID: 1542670279}
   m_Layer: 0
   m_Name: tileset-sliced_24 (19)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8003,7 +8273,7 @@ GameObject:
   - component: {fileID: 1556401803}
   m_Layer: 0
   m_Name: tileset-sliced_24 (34)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8078,6 +8348,46 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &1562504883
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1562504884}
+  m_Layer: 0
+  m_Name: ground_2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1562504884
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1562504883}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1184942685}
+  - {fileID: 1526372286}
+  - {fileID: 1964876689}
+  - {fileID: 1447317228}
+  - {fileID: 156406864}
+  - {fileID: 1465844461}
+  - {fileID: 949189951}
+  - {fileID: 811463325}
+  - {fileID: 933250853}
+  m_Father: {fileID: 1930344637}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1584311621
 GameObject:
   m_ObjectHideFlags: 0
@@ -8090,7 +8400,7 @@ GameObject:
   - component: {fileID: 1584311622}
   m_Layer: 0
   m_Name: tileset-sliced_1 (10)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8159,11 +8469,11 @@ Transform:
   m_GameObject: {fileID: 1584311621}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -12.948319, y: -1.0538601, z: 2}
+  m_LocalPosition: {x: -12.948319, y: -1.0538602, z: 2}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 1930344637}
+  m_Father: {fileID: 1113466350}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1594409680
 GameObject:
@@ -8177,7 +8487,7 @@ GameObject:
   - component: {fileID: 1594409682}
   m_Layer: 0
   m_Name: tileset-sliced_24 (24)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8264,7 +8574,7 @@ GameObject:
   - component: {fileID: 1613856203}
   m_Layer: 0
   m_Name: tileset-sliced_20
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8351,7 +8661,7 @@ GameObject:
   - component: {fileID: 1620223508}
   m_Layer: 0
   m_Name: tileset-sliced_24 (20)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8438,7 +8748,7 @@ GameObject:
   - component: {fileID: 1624951460}
   m_Layer: 0
   m_Name: tileset-sliced_47 (2)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8525,7 +8835,7 @@ GameObject:
   - component: {fileID: 1642810677}
   m_Layer: 0
   m_Name: tileset-sliced_24 (12)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8809,7 +9119,7 @@ GameObject:
   - component: {fileID: 1709617002}
   m_Layer: 0
   m_Name: tileset-sliced_24 (5)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8983,7 +9293,7 @@ GameObject:
   - component: {fileID: 1735123342}
   m_Layer: 0
   m_Name: tileset-sliced_24 (6)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9070,7 +9380,7 @@ GameObject:
   - component: {fileID: 1740504935}
   m_Layer: 0
   m_Name: tileset-sliced_1 (3)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9143,7 +9453,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 1930344637}
+  m_Father: {fileID: 1100757529}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1751302411
 GameObject:
@@ -9157,7 +9467,7 @@ GameObject:
   - component: {fileID: 1751302412}
   m_Layer: 0
   m_Name: tileset-sliced_1 (8)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9226,11 +9536,11 @@ Transform:
   m_GameObject: {fileID: 1751302411}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -15.948319, y: -1.0538601, z: 2}
+  m_LocalPosition: {x: -15.948319, y: -1.0538602, z: 2}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 1930344637}
+  m_Father: {fileID: 1113466350}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1755309741
 GameObject:
@@ -9244,7 +9554,7 @@ GameObject:
   - component: {fileID: 1755309743}
   m_Layer: 0
   m_Name: tileset-sliced_24 (32)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9331,7 +9641,7 @@ GameObject:
   - component: {fileID: 1771436646}
   m_Layer: 0
   m_Name: tileset-sliced_24 (3)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9418,7 +9728,7 @@ GameObject:
   - component: {fileID: 1771619486}
   m_Layer: 0
   m_Name: tileset-sliced_24 (12)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9505,7 +9815,7 @@ GameObject:
   - component: {fileID: 1808127073}
   m_Layer: 0
   m_Name: tileset-sliced_24 (16)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9592,7 +9902,7 @@ GameObject:
   - component: {fileID: 1822817959}
   m_Layer: 0
   m_Name: tileset-sliced_24 (28)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9679,7 +9989,7 @@ GameObject:
   - component: {fileID: 1887914237}
   m_Layer: 0
   m_Name: tileset-sliced_1 (08)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9752,7 +10062,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 1930344637}
+  m_Father: {fileID: 1100757529}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1891045921
 GameObject:
@@ -9766,7 +10076,7 @@ GameObject:
   - component: {fileID: 1891045923}
   m_Layer: 0
   m_Name: tileset-sliced_24 (14)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9887,7 +10197,7 @@ GameObject:
   - component: {fileID: 1901243524}
   m_Layer: 0
   m_Name: tileset-sliced_24 (24)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9974,7 +10284,7 @@ GameObject:
   - component: {fileID: 1905878641}
   m_Layer: 0
   m_Name: tileset-sliced_24 (8)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10061,7 +10371,7 @@ GameObject:
   - component: {fileID: 1906388458}
   m_Layer: 0
   m_Name: tileset-sliced_24 (10)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10148,7 +10458,7 @@ GameObject:
   - component: {fileID: 1907369556}
   m_Layer: 0
   m_Name: tileset-sliced_13
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10235,7 +10545,7 @@ GameObject:
   - component: {fileID: 1922999008}
   m_Layer: 0
   m_Name: tileset-sliced_24 (1)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10319,9 +10629,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1930344637}
+  - component: {fileID: 1930344638}
   m_Layer: 0
-  m_Name: Ground_Tiles
-  m_TagString: Untagged
+  m_Name: Ground
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10335,27 +10646,12 @@ Transform:
   m_GameObject: {fileID: 1930344636}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: -1.09, z: 0}
+  m_LocalPosition: {x: 0.62832, y: -2.43614, z: -3.73515}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
-  - {fileID: 797019195}
-  - {fileID: 260073651}
-  - {fileID: 1751302413}
-  - {fileID: 1584311623}
-  - {fileID: 629187646}
-  - {fileID: 726243737}
-  - {fileID: 860929360}
-  - {fileID: 1201111107}
-  - {fileID: 1184942685}
-  - {fileID: 1526372286}
-  - {fileID: 1964876689}
-  - {fileID: 1447317228}
-  - {fileID: 156406864}
-  - {fileID: 1465844461}
-  - {fileID: 949189951}
-  - {fileID: 811463325}
-  - {fileID: 933250853}
+  - {fileID: 1113466350}
+  - {fileID: 1562504884}
   - {fileID: 1907369555}
   - {fileID: 930861579}
   - {fileID: 829115074}
@@ -10420,14 +10716,7 @@ Transform:
   - {fileID: 122049879}
   - {fileID: 2126051003}
   - {fileID: 1229159165}
-  - {fileID: 569374601}
-  - {fileID: 398398349}
-  - {fileID: 1740504936}
-  - {fileID: 767001222}
-  - {fileID: 480598141}
-  - {fileID: 1189532298}
-  - {fileID: 1887914238}
-  - {fileID: 775156243}
+  - {fileID: 1100757529}
   - {fileID: 1386006540}
   - {fileID: 1275796488}
   - {fileID: 2052609878}
@@ -10447,8 +10736,64 @@ Transform:
   - {fileID: 1534716046}
   - {fileID: 185768736}
   - {fileID: 415353489}
-  m_Father: {fileID: 2133740071}
+  m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!60 &1930344638
+PolygonCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1930344636}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0, y: 0}
+    oldSize: {x: 0, y: 0}
+    newSize: {x: 0, y: 0}
+    adaptiveTilingThreshold: 0
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Points:
+    m_Paths:
+    - - {x: 6.5885305, y: -1.5062864}
+      - {x: 2.5842988, y: 0.4968623}
+      - {x: -0.58513814, y: 0.49197617}
+      - {x: -6.4762983, y: 0.46532357}
+      - {x: -8.47747, y: -0.54078555}
+      - {x: -14.7085085, y: -0.546664}
+      - {x: -14.652773, y: -3.5534043}
+      - {x: 12.937535, y: -3.5076644}
+      - {x: 13.96403, y: -1.4748359}
+  m_UseDelaunayMesh: 0
 --- !u!1 &1964876688
 GameObject:
   m_ObjectHideFlags: 0
@@ -10461,7 +10806,7 @@ GameObject:
   - component: {fileID: 1964876690}
   m_Layer: 0
   m_Name: tileset-sliced_1 (6)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10474,12 +10819,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1964876688}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: -3, y: 0, z: 2}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 1930344637}
+  m_Father: {fileID: 1562504884}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &1964876690
 SpriteRenderer:
@@ -10548,7 +10893,7 @@ GameObject:
   - component: {fileID: 2001229744}
   m_Layer: 0
   m_Name: tileset-sliced_22
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10635,7 +10980,7 @@ GameObject:
   - component: {fileID: 2010695489}
   m_Layer: 0
   m_Name: tileset-sliced_24 (2)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10722,7 +11067,7 @@ GameObject:
   - component: {fileID: 2012309948}
   m_Layer: 0
   m_Name: tileset-sliced_24 (19)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10809,7 +11154,7 @@ GameObject:
   - component: {fileID: 2031478180}
   m_Layer: 0
   m_Name: tileset-sliced_24 (21)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10896,7 +11241,7 @@ GameObject:
   - component: {fileID: 2052609877}
   m_Layer: 0
   m_Name: tileset-sliced_21 (2)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11093,7 +11438,7 @@ GameObject:
   - component: {fileID: 2060208618}
   m_Layer: 0
   m_Name: tileset-sliced_24 (8)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11180,7 +11525,7 @@ GameObject:
   - component: {fileID: 2065225191}
   m_Layer: 0
   m_Name: tileset-sliced_24 (29)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11267,7 +11612,7 @@ GameObject:
   - component: {fileID: 2074930655}
   m_Layer: 0
   m_Name: tileset-sliced_24 (26)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11354,7 +11699,7 @@ GameObject:
   - component: {fileID: 2126051004}
   m_Layer: 0
   m_Name: tileset-sliced_24 (18)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11460,7 +11805,6 @@ Transform:
   m_Children:
   - {fileID: 1549914671}
   - {fileID: 952554063}
-  - {fileID: 1930344637}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1660057539 &9223372036854775807
@@ -11469,6 +11813,7 @@ SceneRoots:
   m_Roots:
   - {fileID: 203844589}
   - {fileID: 808978594}
+  - {fileID: 1930344637}
   - {fileID: 2133740071}
   - {fileID: 1898385326}
   - {fileID: 441246412}
