@@ -6,6 +6,8 @@ TagManager:
   tags:
   - Ground
   - Coin
+  - Obstacle
+  - Goal
   layers:
   - Default
   - TransparentFX
@@ -52,8 +54,11 @@ TagManager:
   - name: Character
     uniqueID: 3062181573
     locked: 0
-  - name: frontground
+  - name: Foreground
     uniqueID: 2201040373
+    locked: 0
+  - name: UI
+    uniqueID: 2290021037
     locked: 0
   m_RenderingLayers:
   - Default
